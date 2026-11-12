@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="github-banner.png"/>
+</p>
+
+
 # 👋 Hi, I'm Aditi Singh
 
 ### 💜 AI/ML Developer | Generative AI | LLMs & RAG
