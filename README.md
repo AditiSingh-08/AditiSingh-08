@@ -18,14 +18,11 @@ Computer Science graduate passionate about building intelligent applications and
 
 `Python` `LLMs` `RAG` `LangChain` `LangGraph` `FastAPI` `Machine Learning` `Deep Learning` `CNN` `SQL` `MLOps` `DevOps`
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<h2 align="center">📊 GitHub Statistics</h2>
+Explore my repositories, contributions and ongoing experiments in AI/ML and Generative AI.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiSingh-08&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSingh-08&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/AditiSingh-08)
 
 ### 🌐 Connect With Me
 
