@@ -17,15 +17,20 @@ Computer Science graduate who builds intelligent applications with LLMs. I enjoy
 
 `Python` `LLMs` `RAG` `LangChain` `LangGraph` `FastAPI` `Machine Learning` `Deep Learning` `CNN` `SQL` `MLOps` `DevOps`
 
-### 🎓 Training & Experience
-LTIMindtree, Graduate Engineer Trainee (GET), AI Services: Completed a 3-month structured technical training.
-Backend: built REST APIs with FastAPI and SQLAlchemy (filtering, sorting, database relationships, CRUD), with API testing and debugging.
-Data and core: Python, Java, SQL, NumPy, Pandas.
-AI/ML: machine learning and deep learning fundamentals, LLMs, RAG pipelines, LangChain and LangGraph.
-Engineering practices: MLOps, DevOps and cloud fundamentals.
-Assessed through coding assignments, weekly tests, milestone assessments and mock interviews.
 
+## 🎓 Training & Experience
 
+### LTIMindtree — Graduate Engineer Trainee (GET), AI Services
+
+Completed a 3-month structured technical training program covering backend development, data processing, AI/ML, and modern AI application development.
+
+- **Backend Development:** Built REST APIs using FastAPI and SQLAlchemy, working with CRUD operations, filtering, sorting, database relationships, API testing, and debugging.
+- **Programming & Data:** Python, Java, SQL, NumPy, and Pandas.
+- **AI & Machine Learning:** Machine Learning and Deep Learning fundamentals, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).
+- **Generative AI Frameworks:** LangChain and LangGraph for developing LLM-powered applications and workflows.
+- **Engineering Practices:** MLOps, DevOps, and cloud computing fundamentals.
+- **Assessments:** Completed coding assignments, weekly knowledge assessments, milestone evaluations, and mock interviews.
+  
 ### 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/aditi-singh-13686b24a) • [GitHub](https://github.com/AditiSingh-08)
