@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditi Singh
 
-<!--
-**AditiSingh-08/AditiSingh-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💜 AI/ML Developer | Generative AI | LLMs & RAG
 
-Here are some ideas to get you started:
+Computer Science graduate passionate about building intelligent applications and exploring the world of Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 AI Services – LTIMindtree (GET)
+- 🤖 Exploring LLMs, RAG, LangChain & LangGraph
+- ⚡ Working with Python, FastAPI, Machine Learning & Deep Learning
+- 🚀 Interested in AI Agents, MLOps and intelligent systems
+
+### 🛠️ Tech Stack
+
+`Python` `LLMs` `RAG` `LangChain` `LangGraph` `FastAPI` `Machine Learning` `Deep Learning` `CNN` `SQL` `MLOps` `DevOps`
+
+### 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/aditi-singh-13686b24a) • [GitHub](https://github.com/AditiSingh-08)
+
+---
+
+*Learning. Building. Evolving. ✨*
