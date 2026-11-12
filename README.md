@@ -20,9 +20,11 @@ Computer Science graduate passionate about building intelligent applications and
 
 ## 📊 GitHub Stats
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiSingh-08&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSingh-08&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AditiSingh-08&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSingh-08&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ### 🌐 Connect With Me
