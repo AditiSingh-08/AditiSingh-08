@@ -5,29 +5,29 @@
 
 # 👋 Hi, I'm Aditi Singh
 
-### 💜 AI/ML Developer | Generative AI | LLMs & RAG
+### 💜 Generative AI Developer | LLMs, RAG & AI Agents
 
-Computer Science graduate passionate about building intelligent applications and exploring the world of Generative AI.
+Computer Science graduate who builds intelligent applications with LLMs. I enjoy turning ideas into working AI products, from retrieval pipelines to agent workflows.
 
-- 💼 AI Services – LTIMindtree (GET)
-- 🤖 Exploring LLMs, RAG, LangChain & LangGraph
-- ⚡ Working with Python, FastAPI, Machine Learning & Deep Learning
-- 🚀 Interested in AI Agents, MLOps and intelligent systems
+🔭 Currently building: Cognivault a RAG-based document Q&A app
+🌱 Currently learning: LangGraph, MLOps and deploying LLM apps
+🤝 Open to: AI/ML and Generative AI roles (entry level)
 
 ### 🛠️ Tech Stack
 
 `Python` `LLMs` `RAG` `LangChain` `LangGraph` `FastAPI` `Machine Learning` `Deep Learning` `CNN` `SQL` `MLOps` `DevOps`
 
-## 📊 GitHub Activity
+### 🎓 Training & Experience
+LTIMindtree, Graduate Engineer Trainee (GET), AI Services: Completed a 3-month structured technical training.
+Backend: built REST APIs with FastAPI and SQLAlchemy (filtering, sorting, database relationships, CRUD), with API testing and debugging.
+Data and core: Python, Java, SQL, NumPy, Pandas.
+AI/ML: machine learning and deep learning fundamentals, LLMs, RAG pipelines, LangChain and LangGraph.
+Engineering practices: MLOps, DevOps and cloud fundamentals.
+Assessed through coding assignments, weekly tests, milestone assessments and mock interviews.
 
-Explore my repositories, contributions and ongoing experiments in AI/ML and Generative AI.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/AditiSingh-08)
 
 ### 🌐 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/aditi-singh-13686b24a) • [GitHub](https://github.com/AditiSingh-08)
 
----
 
-*Learning. Building. Evolving. ✨*
