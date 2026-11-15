@@ -69,20 +69,6 @@ Completed a 3-month structured technical training program covering backend devel
 - **Engineering Practices:** MLOps, DevOps, and cloud computing fundamentals.
 - **Assessments:** Completed coding assignments, weekly knowledge assessments, milestone evaluations, and mock interviews.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiSingh-08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSingh-08&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AditiSingh-08&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
-
----
 
 ## 🌐 Let's Connect
 
