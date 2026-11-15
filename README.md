@@ -34,7 +34,6 @@ I'm a **Software Developer** and Computer Science graduate who builds backend se
 </p>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-7C5CFF?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-F472B6?style=flat-square)
