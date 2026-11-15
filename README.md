@@ -9,9 +9,9 @@
 
 Computer Science graduate who builds intelligent applications with LLMs. I enjoy turning ideas into working AI products, from retrieval pipelines to agent workflows.
 
-🔭 Currently building: Cognivault a RAG-based document Q&A app
-🌱 Currently learning: LangGraph, MLOps and deploying LLM apps
-🤝 Open to: AI/ML and Generative AI roles (entry level)
+-🔭 Currently building: Cognivault a RAG-based document Q&A app
+-🌱 Currently learning: LangGraph, MLOps and deploying LLM apps
+-🤝 Open to: AI/ML and Generative AI roles (entry level)
 
 ### 🛠️ Tech Stack
 
