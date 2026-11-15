@@ -53,7 +53,7 @@ I'm a **Software Developer** and Computer Science graduate who builds backend se
 | :-- | :-- | :-- |
 | 📚 **[Cognivault](https://github.com/AditiSingh-08/Cognivault)** | Upload documents, ask questions in plain language and get answers from your own files | `Python` `FastAPI` `LangChain` `LangGraph` `Streamlit` `RAG` |
 | 🛡️ **AssetGuard AI** *(in development)* | Predictive maintenance: failure prediction, document search and supervisor-approved repair jobs | `Python` `Machine Learning` `Agent workflow` |
-
+| 🐴 [**Trojan Check**](https://github.com/AditiSingh-08/trojan-check) | Static triage for suspicious files: upload an .exe, .pdf or Word file and get an explained 0-100 risk score, file hashes and a PDF report | `Python` `FastAPI` `React` `YARA` `JWT` |
 ---
 
 ## 🎓 Training & Experience
