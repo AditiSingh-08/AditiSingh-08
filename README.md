@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Aditi Singh, Software Developer" width="100%">
+  <img src="aditi-singh-funky-banner.png" alt="Aditi Singh, Software Developer" width="100%">
 </p>
 
 <p align="center">
