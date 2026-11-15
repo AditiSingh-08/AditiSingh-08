@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditi-singh-13686b24a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://drive.google.com/file/d/1d1BZb8f05zXjrSHxibaFvK_h22plsCrx/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-7C5CFF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
-  <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://aditisingh-08.github.io/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
