@@ -1,26 +1,64 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="banner.svg"/>
+  <img src="banner.svg" alt="Aditi Singh, Software Developer" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=Software+Developer+%7C+Backend+%26+APIs;Building+REST+APIs+with+FastAPI;Turning+documents+into+answers+with+RAG;Debugger+by+necessity" alt="Typing animation">
+  </a>
+</p>
 
-# 👋 Hi, I'm Aditi Singh
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditi-singh-13686b24a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://drive.google.com/file/d/1d1BZb8f05zXjrSHxibaFvK_h22plsCrx/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-7C5CFF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"></a>
+  <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
 
-### 💜 Generative AI Developer | LLMs, RAG & AI Agents
+---
 
-Computer Science graduate who builds intelligent applications with LLMs. I enjoy turning ideas into working AI products, from retrieval pipelines to agent workflows.
+## 👋 About Me
 
--🔭 Currently building: Cognivault a RAG-based document Q&A app
--🌱 Currently learning: LangGraph, MLOps and deploying LLM apps
--🤝 Open to: AI/ML and Generative AI roles (entry level)
+I'm a **Software Developer** and Computer Science graduate who builds backend services and AI-powered applications. I like turning ideas into working software, from REST APIs and databases to retrieval pipelines and LLM workflows.
 
-### 🛠️ Tech Stack
+- 🔭 **Currently building:** Cognivault, a RAG-based document Q&A app
+- 🌱 **Currently learning:** LangGraph, MLOps and deploying LLM apps
+- 🤝 **Open to:** Software Engineer, Python/Backend Developer, AI/ML Engineer and Graduate Engineer Trainee roles
+- 😄 **Fun fact:** my favourite bug fix is still `blame(cache)`
 
-`Python` `LLMs` `RAG` `LangChain` `LangGraph` `FastAPI` `Machine Learning` `Deep Learning` `CNN` `SQL` `MLOps` `DevOps`
+---
 
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,pandas,numpy,git,github,postman,vscode" alt="Tech icons">
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C5CFF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-F472B6?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-A78BFA?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0F766E?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1D4ED8?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-6B7280?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-374151?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| 📚 **[Cognivault](https://github.com/AditiSingh-08/Cognivault)** | Upload documents, ask questions in plain language and get answers from your own files | `Python` `FastAPI` `LangChain` `LangGraph` `Streamlit` `RAG` |
+| 🛡️ **AssetGuard AI** *(in development)* | Predictive maintenance: failure prediction, document search and supervisor-approved repair jobs | `Python` `Machine Learning` `Agent workflow` |
+
+---
 
 ## 🎓 Training & Experience
 
-### LTIMindtree — Graduate Engineer Trainee (GET), AI Services
+### LTIMindtree: Graduate Engineer Trainee (GET), AI Services
 
 Completed a 3-month structured technical training program covering backend development, data processing, AI/ML, and modern AI application development.
 
@@ -30,9 +68,24 @@ Completed a 3-month structured technical training program covering backend devel
 - **Generative AI Frameworks:** LangChain and LangGraph for developing LLM-powered applications and workflows.
 - **Engineering Practices:** MLOps, DevOps, and cloud computing fundamentals.
 - **Assessments:** Completed coding assignments, weekly knowledge assessments, milestone evaluations, and mock interviews.
-  
-### 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/aditi-singh-13686b24a) • [GitHub](https://github.com/AditiSingh-08)
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiSingh-08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSingh-08&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AditiSingh-08&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+I'm looking for software and backend roles where I can ship real features and learn from experienced engineers. If you're hiring, or just want to talk code, reach out on [LinkedIn](https://www.linkedin.com/in/aditi-singh-13686b24a/).
+
+<p align="center"><i>Thanks for stopping by. May your builds be green and your caches be blameless.</i></p>
